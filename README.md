@@ -11,7 +11,6 @@ A modern, fully responsive landing page for **Foodota**, featuring a sleek UI wi
 ## 🔧 Technologies Used  
 - **HTML5** – Structure of the page  
 - **CSS3** – Styling and animations  
-- **JavaScript (optional)** – For added interactivity  
 
 ## 📂 Installation  
 1. **Clone the Repository**  
